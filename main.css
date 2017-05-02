@@ -1,0 +1,29 @@
+body{
+    background: maroon;
+}
+
+#container{
+    width: 50%;
+    margin: 15% auto;
+    text-align: center;
+}
+
+button{
+    background-color: steelblue;
+    border: none;
+    margin: 5px;
+}
+
+button:hover{
+    background-color: slateblue;
+}
+
+a{
+    text-decoration: none;
+    color: burlywood;
+}
+
+a:visited{
+    color: darkorange;
+}
+
